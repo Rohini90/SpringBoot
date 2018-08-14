@@ -6,6 +6,10 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("welcome to gradle spring boot example");
         System.out.println("welcome in digital cues");
+        for(int i=1;i<=10;i++)
+        {
+        	System.out.println(i);
+        }
 	}
 
 }
